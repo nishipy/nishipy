@@ -1,4 +1,4 @@
-# Hi, I'm [nishipy]((https://twitter.com/iamnishipy))🐶
+# Hi, I'm [@nishipy](https://twitter.com/iamnishipy)🐶
 
 * Cloud Platform Engineer from Japan.
 * Love dogs🐶, football⚽️ and cloud☁️
@@ -15,5 +15,4 @@
 
 ## Certifications
 
-![](badges/cka-certified-kubernetes-administrator.png) ![](badges/cka-certified-kubernetes-application-developer.png) ![](badges/aws-certified-solutions-architect-associate.png) and more.
-
+![](https://github.com/nishipy/nishipy/blob/master/badges/cka-certified-kubernetes-administrator.png) ![](https://github.com/nishipy/nishipy/blob/master/badges/cka-certified-kubernetes-application-developer.png) ![](https://github.com/nishipy/nishipy/blob/master/badges/aws-certified-solutions-architect-associate.png) and more.
