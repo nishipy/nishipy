@@ -9,7 +9,7 @@
 
 ## GitHub Readme Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=nishipy&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=nishipy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishipy&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
