@@ -1,6 +1,6 @@
 # Hi, I'm [@nishipy](https://twitter.com/iamnishipy)🐶
 
-* Cloud Platform Engineer from Japan.
+* Cloud Engineer from Japan.
 * Love dogs🐶, football⚽️ and cloud☁️
 
 ## Grass-Graph
