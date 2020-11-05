@@ -3,10 +3,6 @@
 * Cloud Engineer from Japan.
 * Love dogs🐶, football⚽️ and cloud☁️
 
-## Grass-Graph
-
-[![](https://grass-graph.moshimo.works/images/nishipy.png)](https://grass-graph.moshimo.works/)
-
 ## GitHub Readme Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=nishipy)](https://github.com/anuraghazra/github-readme-stats)
