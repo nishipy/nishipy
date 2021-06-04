@@ -1,4 +1,4 @@
-# Hi there
+# Hi there 👋
 
 - I'm [@nishipy](https://twitter.com/iamnishipy)🐶
 - Cloud Engineer from Japan.
