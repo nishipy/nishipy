@@ -1,7 +1,8 @@
-# Hi, I'm [@nishipy](https://twitter.com/iamnishipy)🐶
+# Hi there
 
-* Cloud Engineer from Japan.
-* Love dogs🐶, football⚽️ and cloud☁️
+- I'm [@nishipy](https://twitter.com/iamnishipy)🐶
+- Cloud Engineer from Japan.
+- Love dogs🐶, football⚽️ and cloud☁️
 
 ## GitHub Readme Stats
 
