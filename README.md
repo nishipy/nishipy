@@ -12,4 +12,4 @@
 
 ## Certifications
 
-![](https://github.com/nishipy/nishipy/blob/master/badges/cka-certified-kubernetes-administrator.png) ![](https://github.com/nishipy/nishipy/blob/master/badges/cka-certified-kubernetes-application-developer.png) and more.
+![](https://github.com/nishipy/nishipy/blob/master/badges/cka-certified-kubernetes-administrator.png) ![](https://github.com/nishipy/nishipy/blob/master/badges/cka-certified-kubernetes-application-developer.png) ![](https://github.com/nishipy/nishipy/blob/master/badges/cks-certified-kubernetes-security-specialist.png)...
