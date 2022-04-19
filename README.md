@@ -1,7 +1,6 @@
 # Hi there 👋
 
 - [@nishipy](https://twitter.com/iamnishipy).
-- Cloud Engineer from Japan.
 
 <!--
 ## GitHub Readme Stats
